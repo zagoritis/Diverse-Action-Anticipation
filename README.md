@@ -27,8 +27,8 @@ Each branch is one step of the thesis, and each builds on the one before it.
 ## Installation
 
 ```bash
-git clone https://github.com/zagoritis/CLAM.git
-cd CLAM
+git clone https://github.com/zagoritis/Diverse-Action-Anticipation.git
+cd Diverse-Action-Anticipation
 conda env create -f environment.yml
 conda activate clam
 
